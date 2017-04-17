@@ -13,7 +13,7 @@ import android.view.MotionEvent;
 import android.view.View;
 
 /**
- * DoodleCanvas which can be drawn doodle image by a user's touch events
+ * DoodleCanvas is the view which draws doodle images by receiving a user’s touch event.
  */
 public class DoodleCanvas extends View {
     final static int DEFAULT_STROKE_WIDTH = 30;

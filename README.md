@@ -9,7 +9,7 @@ This app allows the user to doodle on the screen with following features:
   - Sets the doodle as a wallpaper
   - Sends the notification when the wallpaper has been sent
 
-## Screeensthot
+## Screeenshots
 <img src="screenshots/screenshot-1.png" height="400" alt="Screenshot"/> <img src="screenshots/screenshot-2.png" height="400" alt="Screenshot"/> 
 
 ## Get started
