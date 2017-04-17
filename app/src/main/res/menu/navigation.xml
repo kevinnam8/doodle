@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_set_paint_color"
+        android:icon="@drawable/ic_color_lens_black_24dp"
+        android:title="@string/title_set_paint_color"/>
+
+    <item
+        android:id="@+id/navigation_set_background_color"
+        android:icon="@drawable/ic_format_color_fill_black_24dp"
+        android:title="@string/title_set_background"/>
+
+    <item
+        android:id="@+id/navigation_save_doodle"
+        android:icon="@drawable/ic_save_black_24dp"
+        android:title="@string/title_save"/>
+
+    <item
+        android:id="@+id/navigation_set_as_wallpaper"
+        android:icon="@drawable/ic_wallpaper_black_24dp"
+        android:title="@string/title_set_as_wallpaper"/>
+
+</menu>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Doodle</string>
+    <string name="title_set_paint_color">Set paint colour</string>
+    <string name="title_set_background">Set background colour</string>
+    <string name="title_save">Save</string>
+    <string name="title_set_as_wallpaper">Set as wallpaper</string>
+    <string name="message_doodle_was_saved">Doodle was saved as \'%s\'</string>
+    <string name="message_doodle_was_set_as_wallpaper">Doodle was set as a wallpaper</string>
+    <string name="text_ok">Ok</string>
+    <string name="choose_paint_color">Choose a paint color:</string>
+    <string name="choose_background_color">Choose a background color:</string>
+    <string name="permission_storage_access">Storage access is required to doodle images.</string>
+    <string name="permission_not_available_request_storage">Permission is not available. Requesting external storage permission.</string>
+    <string name="permission_consider_allow_storage">The app was not allowed to write to your storage. Hence, it cannot function properly. Please consider granting it this permission</string>
+
+</resources>
